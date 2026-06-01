@@ -1,2 +1,2 @@
-# AnriRr.github.io
+# anrirr.github.io
 Personal Web Page
